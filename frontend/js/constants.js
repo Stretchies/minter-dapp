@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Stretchies NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Stretchies are a collection of 5,000 unique Stretchers they are unique digital collectibles living on the Polygon blockchain. Your Strecher includes an stretch class membership card, and grants access to members-only benefits, the first of which is access to the Stretching Hall. Please visit <a href="www.stretchiesnft.com"  target="_blank" rel="noopener noreferrer">www.stretchiesnft.com</a> for more information!';
+const welcome_p = 'The Stretchies are a collection of 5,000 unique Stretchers they are unique digital collectibles living on the Polygon blockchain. Your Strecher includes an stretch class membership card, and grants access to members-only benefits, the first of which is access to the Stretching Hall. Please visit www.stretchiesnft.com for more information!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
