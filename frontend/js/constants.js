@@ -1,9 +1,9 @@
 const contractAddress = "0x43A2F22f2e8687acEeB5344f05c69Ccd4Aef5e8a"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "MOI SIMO!";
-const welcome_h2 = "MORO SIMO";
-const welcome_p = 'MORJENTTES SIMO!';
+const welcome_h1 = "Welcome to the Stretchies NFT Project!!";
+const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_p = 'The Stretchies are a collection of 5,000 unique Stretchers they are unique digital collectibles living on the Polygon blockchain. Your Strecher includes an stretch class membership card, and grants access to members-only benefits, the first of which is access to the Stretching Hall. Please visit <a href="www.stretchiesnft.com"  target="_blank" rel="noopener noreferrer">www.stretchiesnft.com</a> for more information!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
