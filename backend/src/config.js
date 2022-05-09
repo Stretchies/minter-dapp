@@ -67,7 +67,7 @@ const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the ro
 const ROYALTY_ADDRESS = "0xdf59A54ce66576AedcEbc71352834f54d44daFc9"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0x113883e12350c1428f3dc00af770c323ba48fc9d", "0x52BB786CF4085451349eB627c3FEacA45dCAC105",]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = ["0x113883e12350c1428f3dc00af770c323ba48fc9d","0x33fF66eB1940D53Ba2c3ca832a29aF4cDF01FfcC","0x1bDA58C26FaF1436055fe0253558e61d086C2772"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "null"; // If you want to manually include it
@@ -95,7 +95,7 @@ try {
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  external_url: "",
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
@@ -119,7 +119,7 @@ const text = {
   yGap: 40,
   align: "left",
   baseline: "top",
-  weight: "regular",
+  weight: "Regular",
   family: "Courier",
   spacer: " => ",
 };
